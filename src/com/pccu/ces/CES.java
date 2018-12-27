@@ -31,6 +31,14 @@ public class CES extends Student {
 			scanner = new Scanner(new File(filepath));
 			while (scanner.hasNext()) {		
 				Student s = new Student();
+				
+				
+				
+				
+				
+				
+				
+				
                
 				s.setId(scanner.nextInt());	
 				s.setName(scanner.next() );
